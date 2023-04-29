@@ -14,11 +14,14 @@ USDT钱包靓号生成器GPU,GPU波场靓号源码,TRON钱包靓号生成,支持
 	全网最强波场GPU靓号生成器 完全免费 支持断网跑 支持跑靓号后上传至API接口  
 		
 
-##### 图片示例 如同6A 7A 一会儿就出了
+##### 图片示例 
 <a href="https://t.me/gd801">
 <img src="https://github.com/smalpony/gpu/blob/main/gpu.png">
 </a>
-
+	6A 7A 一会儿就出了
+	我的电脑2060 1秒135MH =（1亿3500万个地址 / 每秒）
 <img src="https://github.com/smalpony/gpu/blob/main/gpu2.png">
+
+#全网最强没有之一 
 
 
