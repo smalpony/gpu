@@ -1,0 +1,4 @@
+运行命令为：gd_gpu.exe --lianhao 6 --down 123.txt
+
+6 代表跑6连号
+123.txt 代表保存到本地的记录文件
