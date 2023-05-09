@@ -1,0 +1,32 @@
+运行命令为：gd_gpu.exe --lianhao 6 --down 123.txt
+
+6 代表最低匹配：6连号（当然同时也会筛选包括7  8  9 10连号的）
+123.txt 代表保存到本地的记录文件
+
+
+2023年5月9日更新：
+1.自动分靓号类型储存txt 
+2.config.txt 中最上面3行数字，代表生产地址的基数，你不需要知道他是干啥的，你只需要随意修改一下开始跑即可
+3.优化多卡刷屏问题(未测试)
+
+2023年5月9日20:45更新：
+1.筛选自动分数字 字母分类
+2.自动筛选顺子靓号( 筛选级别=少连号1位  举例：跑8连号 7位以上顺子会筛选出来 )
+
+
+
+
+
+---------------------------------------------------------------------------------------
+TG交流群：@phpTRON   https://t.me/phpTRON
+温馨提示：
+1.如果闪退请确认是否电脑是不是笔记本混合显卡： 请禁用集成显卡（禁用核显）
+解决办法：禁用核显方法：https://jingyan.baidu.com/article/642c9d34f6b2ae254a46f7e6.html
+
+2.如果提示 OPENCL.dll 错误，（通常是服务器才出现）请安装显卡驱动 GPU服务器推荐使用系统：windows 2019  当然任何版本windows都可以
+  解决办法：下载安装对应的显卡驱动，https://www.nvidia.cn/Download/index.aspx  
+  举例腾讯云 V100 显卡搜索下载选择：
+    Product Type：	Data Center / Tesla
+    Product Series：	A-Series
+    Product:	NVIDIA A100
+    Operating System: 就是你的windows 如：Windows Server 2019
