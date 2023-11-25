@@ -1,0 +1,26 @@
+命令说明：
+
+config.txt 		你可以新建一个config.txt文件，并写入4行数字（实现自定义基数）默认没有该文件 代表随机生成基数
+
+address.txt 	代表高仿地址列表,1行1个地址,默认仿前3位，后4位，你可以编辑：生成高仿地址.bat 里面的数字改变仿的位数
+ 
+  
+
+TG交流群：@phpTRON   https://t.me/phpTRON
+--------------------------------------常见问题-------------------------------- 
+温馨提示：
+1.如果闪退请确认是否电脑是不是笔记本混合显卡： 请禁用集成显卡（禁用核显）
+解决办法：禁用核显方法：https://jingyan.baidu.com/article/642c9d34f6b2ae254a46f7e6.html
+
+2.如果提示 OPENCL.dll 错误（通常服务器才会出现）请安装显卡驱动 GPU服务器推荐使用系统：windows 2019 
+ 
+  解决办法：
+	下载安装对应的显卡驱动，https://www.nvidia.cn/Download/index.aspx  
+
+
+ 举例腾讯云 阿里云 V100 显卡搜索下载选择：
+    Product Type：	Data Center / Tesla
+    Product Series：	A-Series
+    Product:	NVIDIA A100
+
+    Operating System: 就是你的windows  就选择windows对应版本，如服务器：Windows Server 2019
