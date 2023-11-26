@@ -14,7 +14,7 @@ echo.
 echo [1;36m °´ÏÂÈÎÒâ¼ü¿ªÊ¼ÅÜºÅ°É,ÏÔ¿¨Ô½Ç¿³öºÅÔ½¿ì...  [0m
 echo.
 pause
-gd_gpu.exe --gaofang address.txt --qian 3 --hou 4 
+gd_gpu.exe --gaofang address.txt --qian 3 --hou 4
 pause
 
  
