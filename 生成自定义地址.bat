@@ -13,7 +13,7 @@ echo.
 echo [1;36m ÆäÊµºÍÅÜ¸ß·ÂµØÖ·ÊÇÒ»ÑùµÄ,Ö»²»¹ıqian  hou ²ÎÊıÖµ²»Ò»Ñù...  [0m
 echo.
 pause
-gd_gpu.exe --gaofang diy.txt --qian 0 --hou 5
+gpu.exe --gaofang diy.txt --qian 0 --hou 5
 pause
 
  

@@ -1,4 +1,4 @@
 @echo off 
 echo [1;32m ║╬иЗЁи н╡╨е6н╩кЁвс ╣дг╝╟Э╣ьж╥║©дЦ©иртср╪Э╠Ю╪╜╠╬нд╪Чпч╦дфДжп╣дё╨6  ╢с╤Ьх╔еэ7  8  9н╩йЩ╣дкЁвс╣ьж╥ [0m
-gd_gpu.exe --shunzi yes --hou 6
+gpu.exe --shunzi yes --hou 6
 pause
