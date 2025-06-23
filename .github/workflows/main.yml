@@ -1,1 +1,23 @@
+name: CI/CD Workflow
 
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v3
+    
+    - name: Set up environment
+      run: echo "Setting up environment"
+      
+    - name: Run tests
+      run: echo "Running tests"
+      
+    - name: Build
+      run: echo "Building project"
